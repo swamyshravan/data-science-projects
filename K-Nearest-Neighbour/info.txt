@@ -1,0 +1,2 @@
+This folder contains all the data and notebook files of the K Nearest Neighbour projects I created.
+Additonal updated to the projects will also in this folder
