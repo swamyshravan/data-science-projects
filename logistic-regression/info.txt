@@ -1,0 +1,1 @@
+This folder contains all the data and notebook files of the logistic regressoin projects I created. Additonal updated to the projects will also in this folder
